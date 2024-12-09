@@ -1,0 +1,14 @@
+{
+  "currencyUpdateTimeInSeconds": 10,
+  "requestTimeOutInSeconds": 3,
+  "translate": {
+    "message_aboutUs": [{
+      "PL": "Jesteśmy wirutalnym kantorem",
+      "EN": "We are a virtual cantor"
+    }],
+    "message_needHelp": [{
+      "PL": "Potrzebujesz pomocy? Napisz do nas!",
+      "EN": "Need help? Write to us!"
+    }]
+  }
+}

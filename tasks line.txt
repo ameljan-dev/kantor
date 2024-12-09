@@ -1,0 +1,28 @@
+# Wstęp #
+- Zapoznanie się z treścią zadania rekrutacyjnego
+- Rozpisanie TODO (w moim przypadku na kartkach samoprzylepnych - praktyka która rzuca się w oczy, gdyż kartki są na monitorach :D )
+- Stworzenie struktury aplikacji przy użyciu pakietu "create-react-app" +  przygotowanie template pod typescript
+- Dostosowanie struktury do potrzeb projektu, w tym usunięcie niepotrzebnych elementów
+- Zapoznanie się z dokumentacją bibliotek: xstate oraz MUI w tym integracja z providerem w celu przekazywania props'ów do styli
+
+# Stworzenie korpusu aplikacji #
+- Utworzenie struktury plików wymaganej do dalszej efektynej pracy nad zadaniami
+- Postawienie middleware, który później przyda się przy implementacji:
+  - tłumaczenie
+  - przechowywanie i zarządzanie danymi w sesji z wykorzystaniem biblioteki xstate
+  - parsowanie  
+- Wsparcie do przechodzenia pomiędzy stronami / ekranami bez używania zewnętrznych bibliotek "react-hook-form"
+
+# Rozwinięcie korpusu aplikacji #
+- Dostosowanie formularzy do biblioteki z walidacjami przy użyciu biblioteki 
+- Wsparcie dla styli i szat graficznych 
+- Integracja API
+- Sprawdzenie poprawnej synchronizacji danych
+- Analiza "callstack'a" ekosystemu aplikacji
+- Pomniejsze zmiany
+
+# Debugowanie i testy jednostkowe #
+
+# Refaktoryzacja i destrukturyzacja kodu #
+
+# Beta #
